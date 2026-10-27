@@ -25,7 +25,7 @@ You don't change any of these. You add `hello-app.yaml` and fill in the sections
 Docker Hub image I deployed (for example `ravi123/hello-app:v1`):
 
 ```
-shashankbanasi/hello-app:v1
+shashankbanasi06/hello-app:v1
 ```
 
 ## 2. Pods across nodes
